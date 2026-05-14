@@ -1,3 +1,4 @@
+
 # Kritesh Dhungel
 
 ## Certifications
@@ -8,3 +9,5 @@
 - AI Automation
 - Git/GitHub
 - Web Development
+
+<img width="1024" height="779" alt="image" src="https://github.com/user-attachments/assets/7acd9cba-d0cb-444a-b66b-affaea18eb81" />
