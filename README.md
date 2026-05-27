@@ -149,12 +149,11 @@ iFixAndRepair      Store booking & scheduling system
 CONTACT
 ────────────────────────────────────────────────────────────
 
-Email      anishpandey021@gmail.com
+Email      kriteshdhungel07@gmail.com
 LinkedIn   /in/kritesh-dhungel
-Twitter    @anishraj_pandey
-Instagram  @anishrajpandey
-YouTube    whosthispandey
-Web        anishrajpandey.com.np
+Twitter    kriteshdhungel
+Instagram  @4.kiorr_
+
 ```
 
 <br/>
