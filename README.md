@@ -15,11 +15,11 @@
 <br/>
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║         K R I T E S H   D H U N G E L                    ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║         K R I T E S H   D H U N G E L                 ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -167,8 +167,8 @@ Instagram  @4.kiorr_
 <br/>
 
 ```
-"The goal is not to write code.
- The goal is to build systems
+"The goal is not just to write code.
+ The goal is to debug reality and build system
  that outlast the time spent building them."
 ```
 
