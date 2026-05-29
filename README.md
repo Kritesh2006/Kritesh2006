@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1200&color=4D9FFF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+scratch.;AI+orchestration+%7C+Automation+%7C+Agents.;Architect+of+ARIA+%E2%80%94+Autonomous+Reasoning+AI.;Not+a+developer.+A+builder.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1200&color=4D9FFF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+scratch.;AI+orchestration+%7C+Automation+%7C+Agents.;Architect+of+ARIA+%E2%80%94+Autonomous+Reasoning+AI.;A+developer,.+A+builder.)](https://git.io/typing-svg)
 
 <br/>
 
