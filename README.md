@@ -1,9 +1,6 @@
 
 # Kritesh Dhungel
 
-## Certifications
-- Microsoft + Coursera: Python Programming Fundamentals (2026)
-
 ## Currently Learning
 - Python
 - AI Automation
@@ -15,11 +12,11 @@
 <br/>
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║         K R I T E S H   D H U N G E L                 ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║         K R I T E S H   D H U N G E L            ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -123,7 +120,7 @@ iFixAndRepair      Store booking & scheduling system
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritesh2006&show_icons=true&theme=transparent&hide_border=true&title_color=4D9FFF&icon_color=4D9FFF&text_color=8899aa&bg_color=00000000&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kritesh2006&show_icons=true)
 
 <br/>
 
