@@ -128,7 +128,7 @@ iFixAndRepair      Store booking & scheduling system
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritesh2006&layout=compact&theme=transparent&hide_border=true&title_color=4D9FFF&text_color=8899aa&bg_color=00000000&langs_count=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kritesh2006&layout=compact)
 
 <br/>
 
