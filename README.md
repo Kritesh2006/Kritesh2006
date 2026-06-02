@@ -124,8 +124,6 @@ iFixAndRepair      Store booking & scheduling system
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kritesh2006&theme=transparent&hide_border=true&ring=4D9FFF&fire=e63946&currStreakLabel=4D9FFF&sideLabels=8899aa&currStreakNum=ffffff&sideNums=ffffff&dates=444f66&background=00000000)
-
 <br/>
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kritesh2006&layout=compact)
