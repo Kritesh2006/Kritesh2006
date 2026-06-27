@@ -57,7 +57,7 @@ Status             →   Somewhere between student and founder.
 <br/>
 
 > ARIA is a full-stack AI orchestration system built from scratch.
-> Multi-model debate engine — Claude, Gemini, DeepSeek analyze in parallel.
+> Multi-model debate engine, Claude, Gemini, DeepSeek analyze in parallel.
 > OpenAI synthesizes the final judgment.
 > Designed for strategic decisions, market analysis, and intelligent automation.
 > Not a chatbot. A reasoning system.
@@ -102,7 +102,7 @@ SELECTED BUILDS
 ARIA               Full-stack AI assistant · multi-agent debate engine
                    OpenAI · Claude · Gemini · DeepSeek · Node.js backend
 
-Personal Site      Identity in code — anishrajpandey.com.np
+Personal Site      Identity in code , anishrajpandey.com.np
 
 iFixAndRepair      Store booking & scheduling system
                    Real-world automation · production-deployed
