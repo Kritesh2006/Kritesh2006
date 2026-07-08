@@ -13,7 +13,8 @@
 ```
 ╔═════════════════════════════════════════╗
 ║                                         ║
-║         NXTLEVEL K R I T E S H          ║
+║         N X T L E V E L                 ║
+║                        by **Kritesh  ** ║
 ║                                         ║
 ╚═════════════════════════════════════════╝
 ```
@@ -34,10 +35,10 @@
 IDENTITY
 ────────────────────────────────────────────────────────────
 
-Computer Science   →   Not a traditional learner, but a Builder.
+Computer Science   →   Builder first. Student always.
 AI Systems         →   Agents that reason, debate, decide.
 Automation         →   Systems that run without me.
-Status             →   Student and Founder of NxtLevelPOS
+Status             →   Student · Independent Developer
 ```
 
 <br/>
@@ -235,10 +236,6 @@ MILESTONES
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kritesh2006&hide_border=true&background=0D1117&ring=4D9FFF&fire=4D9FFF&currStreakLabel=4D9FFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E)
-
-<br/>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kritesh2006&theme=onyx&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)
 
 <br/>
 
